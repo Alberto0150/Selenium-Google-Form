@@ -5,7 +5,7 @@
 ---
 
 ### Explanation & Reference:
-- Explanation blog post (coming soon)
+- Explanation blog post: [My Medium Blog](https://albertosanjaya.medium.com/using-selenium-web-driver-to-automatic-filling-a-google-form-3bf85fb6ce25)
 - [Selenium Documentation](https://selenium-python.readthedocs.io/)
 ---  
 ## On used:
@@ -20,9 +20,9 @@
 ## Scenario that covered with this program:
 - textbox input
 - radio button input
+- checkbox input
 - linear scale input
-- next button (each section) & submit button 
-- multi-section form
+- next button (each section) & submit button (multi-section form)
 
  
 ---
@@ -34,12 +34,12 @@
 2. Change the webdriver executable_path
 3. Change the google form link
 4. Change the input format (radio button, textbox, submit button, etc.)
-5. execute in terminal with ``` python autogform.py ```
+5. Execute in terminal with ``` python autogform.py ```
 
 ### To only more than one time 
 1. Clone this repository
 2. Change the webdriver executable_path
 3. Change the google form link
 4. Change the input format (radio button, textbox, submit button, etc.)
-5. change how much time the goggle form to be submit (inside auto-spam.py)
-6. execute in terminal with ``` python auto-spam.py ```
+5. Change how much time the goggle form to be submit (inside auto-spam.py)
+6. Execute in terminal with ``` python auto-spam.py ```
